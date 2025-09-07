@@ -13,3 +13,15 @@ Dynamic Programming & Recursion
 
 
 The goal of this repo is to build problem-solving skills, coding efficiency, and clarity of concepts, while keeping all solutions organized for future reference.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vaibhavjadhav2316/DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vaibhavjadhav2316/DSA/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->

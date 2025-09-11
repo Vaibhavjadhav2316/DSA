@@ -21,11 +21,13 @@ The goal of this repo is to build problem-solving skills, coding efficiency, and
 | ------- |
 | [0001-two-sum](https://github.com/Vaibhavjadhav2316/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaibhavjadhav2316/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Vaibhavjadhav2316/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vaibhavjadhav2316/DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaibhavjadhav2316/DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Vaibhavjadhav2316/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vaibhavjadhav2316/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -46,5 +48,6 @@ The goal of this repo is to build problem-solving skills, coding efficiency, and
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Vaibhavjadhav2316/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vaibhavjadhav2316/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

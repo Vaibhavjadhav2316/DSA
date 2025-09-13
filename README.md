@@ -23,6 +23,7 @@ The goal of this repo is to build problem-solving skills, coding efficiency, and
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaibhavjadhav2316/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Vaibhavjadhav2316/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vaibhavjadhav2316/DSA/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Vaibhavjadhav2316/DSA/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ The goal of this repo is to build problem-solving skills, coding efficiency, and
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Vaibhavjadhav2316/DSA/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Vaibhavjadhav2316/DSA/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
